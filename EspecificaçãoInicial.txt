@@ -1,0 +1,7 @@
+Ideia Principal:
+- Objectos:-Bola
+	   -Paredes
+	   -(Outros Obejctos)
+- Bola andar por caminho
+- Aparecem Paredes
+- Saltar parades
