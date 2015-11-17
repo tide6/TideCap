@@ -2,10 +2,11 @@ Ideia Principal:
 - Objectos:-Bola
 	   -Paredes
 	   -(Outros Objectos)
-- Bola a rolar pelo caminho
+- Bola a saltar pelo caminho
 - Aparecem Paredes
-- Saltar parades
+- O utilizador tem de escolher a forma para a bola atravessar a parede, a qual tem um buraco com uma determinada forma.
+- Há paredes que não têm buraco, neste caso o utilizador tem de contornar a parede
 
 Controlos:
 O utilizador desloca a bola na horizontal.
-O utilizador faz saltar a bola.
+O utilizador escolhe a forma da bola.
