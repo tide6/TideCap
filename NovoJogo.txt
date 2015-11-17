@@ -1,0 +1,6 @@
+Jogo entre 2 pessoas ou entre 1 pessoa vs CPU
+
+Jogo dividido em duas zonas
+
+a dividir as 2 zonas estao "buracaos negros";
+
