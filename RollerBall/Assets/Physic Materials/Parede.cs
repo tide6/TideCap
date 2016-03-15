@@ -12,6 +12,6 @@ public class Parede : MonoBehaviour {
 	public float move_parede= 5;
 	// Update is called once per frame
 	void Update () {
-		Transform.Translate(Vector3.right * move_parede * Time.deltaTime);
+//		Transform.Translate(Vector3.right * move_parede * Time.deltaTime);
 	}
 }
